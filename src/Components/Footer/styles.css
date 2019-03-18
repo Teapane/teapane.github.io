@@ -1,9 +1,0 @@
-.footer-social-links {
-  display: flex;
-  flex-direction: column;
-  margin: 0px 0px 10px;
-  &-a {
-    font-size: 10px;
-    color: green;
-  }
-}
